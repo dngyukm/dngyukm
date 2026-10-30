@@ -1,4 +1,5 @@
-donggyu mostly builds digital products, sometimes things you can hold.
+donggyu\
+mostly builds digital products, sometimes things you can hold.
 
 Open Source Contributions
 
